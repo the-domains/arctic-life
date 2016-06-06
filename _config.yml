@@ -1,18 +1,18 @@
-typography_spectrum: 0.08728224714286625
+typography_spectrum: 0.31184792681597173
 color:
-  brandStrength: 0.7041611988097429
-  lightness: 0.8005363021511585
-  saturation: 0.602688143029809
-  rhythmicContrast: 0.4755843982566148
+  brandStrength: 0.6730659320019186
+  lightness: 0.4510904154740274
+  saturation: 0.16338892793282866
+  rhythmicContrast: 0.7907670612912625
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
 opengraph:
   appId: '481579488710755'
-layout_spectrum: 0.14836159022524953
+layout_spectrum: 0.4654597705230117
 author:
   name: Lasse Reiding
   email: info@arctic.life
