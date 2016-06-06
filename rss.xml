@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[GATE TO GREENLAND]]></title>
+        <description><![CDATA[GATE TO GREENLAND]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 06 Jun 2016 22:49:02 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Arctic Life Intro]]></title>
+            <description><![CDATA[<article><h1>Arctic Life Intro</h1><p>Arctic Life intro HD</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/22a4d9766d9d7175a51cd1fc3acd2fdcebcd0078.jpg"></article>]]></description>
+            <link>https://vimeo.com/158267008</link>
+            <guid isPermaLink="false">8d27c24d-4df1-4125-a056-b5949542b25d</guid>
+            <pubDate>Mon, 06 Jun 2016 22:49:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
