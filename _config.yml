@@ -1,4 +1,3 @@
-layout_spectrum: 0.14836159022524953
 typography_spectrum: 0.08728224714286625
 color:
   brandStrength: 0.7041611988097429
@@ -11,4 +10,13 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+opengraph:
+  appId: '481579488710755'
+layout_spectrum: 0.14836159022524953
+author:
+  name: Lasse Reiding
+  email: info@arctic.life
+  url: www.arctic.life
+logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/76a4ffcc-6a6d-40a7-97b5-ce9656844a1d.png'
 name: Arctic Life
+title: GATE TO GREENLAND
